@@ -88,13 +88,7 @@ git clone https://github.com/BENAMAR-Zaid/Fraud-Detection-Project.git
 1. Change directory to FastAPI:
 
 ```
-cd FastAPI
-```
-
-3. Install the required packages:
-
-```
-pip install -r requirements.txt
+cd Back-end
 ```
 
 2. Launch project : 
