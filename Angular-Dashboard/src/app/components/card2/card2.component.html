@@ -1,0 +1,34 @@
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <div class="row justify-content-between">
+        <div class="col-md-4 col-xl-4">
+            <div class="card bg-c-blue order-card">
+                <div class="card-block">
+                    <h6 class="m-b-4 card-text" style="font-size: 15px;">Total des fraudes</h6>
+                    <h2 class="text-right card-text" style="margin-top: 20px;"><i class="fa fa-users f-left" aria-hidden="true"></i><span>{{ total_fraud }}</span></h2>
+                    <p class="m-b-0 card-text">Total des fraudes confiremées<span class="f-right">{{ total_confirme }}</span></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 col-xl-4">
+            <div class="card bg-c-green order-card">
+                <div class="card-block">
+                    <h6 class="m-b-4 card-text" style="font-size: 15px;">DERNIÈRE date d'analyse</h6>
+                    <h2 class="text-right card-text" style="margin-top: 20px;"><i class="fa fa-bar-chart f-left" aria-hidden="true"></i><span>{{ last_date }}</span></h2>
+                    <p class="m-b-0 card-text">Nombre des fraudes détectées<span class="f-right">{{ total_frauds_last_date }}</span></p>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="col-md-4 col-xl-4">
+            <div class="card bg-c-pink order-card">
+                <div class="card-block">
+                    <h6 class="m-b-4 card-text" style="font-size: 15px;">Prochaine date d'analyse</h6>
+                    <h2 class="text-right card-text" style="margin-top: 20px;"><i class="fa fa-bar-chart f-left" aria-hidden="true"></i><span>{{ next_date }}</span></h2>
+                    <p class="m-b-0 card-text"> &nbsp; <span class="f-right"> </span></p>
+                </div>
+            </div>
+        </div>
+	</div>

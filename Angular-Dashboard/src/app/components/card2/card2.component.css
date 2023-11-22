@@ -1,0 +1,50 @@
+.order-card {
+    color: #fff !important;
+}
+
+.bg-c-blue {
+    background: linear-gradient(45deg,#4099ff,#73b4ff) !important;
+}
+
+.bg-c-green {
+    background: linear-gradient(45deg,#2ed8b6,#59e0c5) !important;
+}
+
+.bg-c-yellow {
+    background: linear-gradient(45deg,#FFB64D,#ffcb80) !important;
+}
+
+.bg-c-pink {
+    background: linear-gradient(45deg,#FF5370,#ff869a) !important;
+}
+
+
+.card {
+    border-radius: 5px !important;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16) !important;
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16) !important;
+    border: none !important;
+    margin-bottom: 30px !important;
+    -webkit-transition: all 0.3s ease-in-out !important;
+    transition: all 0.3s ease-in-out !important;
+}
+
+.card .card-block {
+    padding: 25px !important;
+}
+
+.order-card i {
+    font-size: 26px !important;
+}
+
+.f-left {
+    float: left !important;
+}
+
+.f-right {
+    float: right !important;
+}
+
+.card-text {
+    color: #fff !important;
+  }
