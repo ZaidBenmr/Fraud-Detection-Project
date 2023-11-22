@@ -24,16 +24,16 @@
 <hr>
 
 ### 🔬 Analysis Page
-![1](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/9f050d5c-81aa-4c91-bcee-97830fd30804)
-![2](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/76cf820f-669e-4171-ad13-a5c4a4f08431)
-![3](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/663aeb3e-f051-42cb-9665-bf8caeeaaaff)
-![4](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/cfae5b81-5f23-463c-89cb-23fb276920aa)
+![1](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/18a328b1-a82a-4a02-8d90-55f09f1bf466)
+![2](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/829ab719-71b8-4941-b7d9-230b9d1f2b13)
+![3](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/7f97d5af-d0fb-4ce4-8889-502d952d5b80)
+![4](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/6cab61d8-9b6d-4fac-ac01-4caad42946bd)
 
 ### 🔬 Fraud detection results pages
-![5](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/b83d1bbd-a697-45c6-bad8-0dbd3603c984)
-![6](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/701d1c1a-2f0e-4940-9634-e6d807365a14)
-![7](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/42c12094-3fc9-4334-8ccb-c7432d1b2137)
-![8](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/a9888f71-2411-4b29-a968-142dc90f5b2d)
+![5](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/4d88addc-5366-4111-8729-5527876b5dcf)
+![6](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/a767f801-4c6f-4285-a7f1-47efb1a7f35f)
+![7](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/e4bb9b83-e18b-42b9-9c43-acec4566ec05)
+![8](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/54807592-93ad-4b2e-b35b-55fac0f6c1ea)
 
 
 
@@ -59,7 +59,7 @@ In our way to develope and build this project, i've passed with the following st
 <a name="arch"></a>
 ## 📝 Project Architecture
 
-![Project_Arch](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/889f2643-6849-419c-bce9-9239ae22f8e9)
+![Project_Arch](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/efcd8963-c2b4-4119-b14c-52a1e76c6210)
 
 ### 🛠️ Technologies Used
 
