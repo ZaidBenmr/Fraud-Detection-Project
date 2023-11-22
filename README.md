@@ -75,6 +75,48 @@ In our way to develope and build this project, i've passed with the following st
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
+<a name="installation"></a>
+## 🖥️ Installation : 
+Clone the repository:
+
+```
+git clone https://github.com/BENAMAR-Zaid/Fraud-Detection-Project.git
+```
+
+### - Run FastAPI
+
+1. Change directory to FastAPI:
+
+```
+cd FastAPI
+```
+
+3. Install the required packages:
+
+```
+pip install -r requirements.txt
+```
+
+2. Launch project : 
+
+```
+python -m uvicorn main:app --reload
+```
+
+### - Run Angular 17 Dashboard : 
+
+1. Change directory to Angular:
+
+```
+cd Angular-Dashboard
+```
+
+2. Run the app:
+
+```
+ng serve
+```
+
 
 <a name="contact"></a>
 ## 📨 Contact Me
