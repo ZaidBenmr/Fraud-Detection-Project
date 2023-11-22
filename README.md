@@ -3,7 +3,7 @@
     <ul>
       <summary><h1 style="display: inline-block;"> Electricity Fraud Detection - Intership at Veolia Gmbh (Amendis)</h1></summary>
       <summary><h2 style="display: inline-block;"> Data Science and Analysis Project</h2></summary> 
-    </ul>
+    </ul> 
   </div>
   
   <p>Gain insights from electricity consumption data to detect fraudulent activities by users and design a Business Intelligence user interface to visualize the results.</p>
