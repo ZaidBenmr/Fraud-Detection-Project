@@ -29,7 +29,7 @@
 ![3](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/7f97d5af-d0fb-4ce4-8889-502d952d5b80)
 ![4](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/6cab61d8-9b6d-4fac-ac01-4caad42946bd)
 
-### 🔬 Fraud detection results pages
+### 🔬 Fraud detection results page
 ![5](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/4d88addc-5366-4111-8729-5527876b5dcf)
 ![6](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/a767f801-4c6f-4285-a7f1-47efb1a7f35f)
 ![7](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/e4bb9b83-e18b-42b9-9c43-acec4566ec05)
