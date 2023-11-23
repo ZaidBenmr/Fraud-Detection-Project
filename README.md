@@ -53,7 +53,7 @@ In our way to develope and build this project, i've passed with the following st
 #### 2- Exploratory data analysis (EDA) is performed on the cleaned data to gain insights into trends and patterns. This includes identifying the most common fraudulent sectors, understanding the behavior of consumption data from fraudulent users, and recognizing the most common patterns among them. EDA also involves creating visualizations to aid in understanding the data.
 #### 3- After EDA, feature engineering is performed to represent customer load profiles. Instead of directly feeding the load profile with numerous lines to the model, it is necessary to extract the most relevant features and represent them in a single vector. This simplifies the data and makes it more comprehensible to the model.
 #### 4- After training various models such as random forests, logistic regression, support vector machines, KNN, Naïve Bayes, and DNN. I conducted tests and comparisons among these models to select the one that offered the best results in terms of accuracy, precision.
-![Preprossing architecutre 3](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/a08f97a3-644c-4953-8681-1de9d34e0a73)
+![Preprossing architecutre 4](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/e97ba9c2-6c3c-4262-be9d-44f17e0ac553)
 
 #### 5- After selecting the best model i've deployed it on a web application using FastAPI.
 #### 6- In the FastAPI web application, I created an ML pipeline that will be utilized by an API function. When this function is called, it automatically triggers analysis to detect fraudulent activities.
