@@ -52,9 +52,12 @@ In our way to develope and build this project, i've passed with the following st
 #### 1- Data cleaning and preprocessing to remove irrelevant information and ensure consistency, including dropping duplicates, handling missing values, eliminating outliers, and performing one-hot encoding.
 #### 2- Exploratory data analysis (EDA) is performed on the cleaned data to gain insights into trends and patterns. This includes identifying the most common fraudulent sectors, understanding the behavior of consumption data from fraudulent users, and recognizing the most common patterns among them. EDA also involves creating visualizations to aid in understanding the data.
 #### 3- After EDA, feature engineering is performed to represent customer load profiles. Instead of directly feeding the load profile with numerous lines to the model, it is necessary to extract the most relevant features and represent them in a single vector. This simplifies the data and makes it more comprehensible to the model.
-#### 4- After training various models such as random forests, logistic regression, support vector machines, KNN, Naïve Bayes, and DNN. I conducted tests and comparisons among these models to select the one that offered the best results in terms of accuracy, precision, and other performance criteria before deploying it on a web application using FastAPI.
-#### 5- In the FastAPI web application, I created an ML pipeline that will be utilized by an API function. When this function is called, it automatically triggers analysis to detect fraudulent activity.
-#### 6- Development of an Angular 17 UI to visualize the results of fraud detection analyses, either in the form of BI graphs, or as a table. On the other, analysis results can be downloaded as Excel files.
+#### 4- After training various models such as random forests, logistic regression, support vector machines, KNN, Naïve Bayes, and DNN. I conducted tests and comparisons among these models to select the one that offered the best results in terms of accuracy, precision.
+![Preprossing architecutre 3](https://github.com/BENAMAR-Zaid/Fraud-Detection-Project/assets/105943885/a08f97a3-644c-4953-8681-1de9d34e0a73)
+
+#### 5- After selecting the best model i've deployed it on a web application using FastAPI.
+#### 6- In the FastAPI web application, I created an ML pipeline that will be utilized by an API function. When this function is called, it automatically triggers analysis to detect fraudulent activities.
+#### 7- Development of an Angular 17 UI to visualize the results of fraud detection analyses, either in the form of BI graphs, or as a table. On the other, analysis results can be downloaded as Excel files.
 
 <a name="arch"></a>
 ## 📝 Project Architecture
