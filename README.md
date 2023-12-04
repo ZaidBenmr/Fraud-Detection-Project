@@ -1,7 +1,7 @@
 <div align="center">
   <div id="user-content-toc">
     <ul>
-      <summary><h1 style="display: inline-block;"> Electricity Fraud Detection - Intership at Veolia Gmbh (Amendis)</h1></summary>
+      <summary><h1 style="display: inline-block;"> Electricity Fraud Detection - Intership at Veolia (Amendis)</h1></summary>
       <summary><h2 style="display: inline-block;"> Data Science and Analysis Project</h2></summary>
     </ul> 
   </div>
